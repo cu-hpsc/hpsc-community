@@ -54,3 +54,41 @@ semester.
 ### 2019-12-11 (Wed): Presentations
   * Lightning presentations and breakout group discussions of
    contributions, which have hopefully been merged by this time.
+
+## Ideas
+
+These are some projects that could be selected, or give you an ideo of
+what to look for.  I may update this list with more suggestions.
+
+* Libraries
+  * Parallelism
+    * [MPICH](https://github.com/pmodels/mpich/)
+    * [Open MPI](https://github.com/open-mpi/ompi)
+    * [DASK](https://github.com/dask/dask)
+  * Parallel solvers
+    * [PETSc](https://gitlab.com/petsc/petsc/)
+    * [Trilinos](https://github.com/trilinos/Trilinos)
+  * Partial differential equations
+    * [Deal.II](https://github.com/dealii/dealii)
+    * [Libmesh](https://github.com/libmesh/libmesh)
+    * [MFEM](https://github.com/mfem/mfem/)
+    * FEniCS [Dolfin](https://bitbucket.org/fenics-project/dolfin/src/master/)/[Dolfinx](https://github.com/FEniCS/dolfinx)
+    * [Clawpack](https://github.com/clawpack/)
+  * Python
+    * [NumPy](https://github.com/numpy/numpy)
+    * [SciPy](https://github.com/scipy/scipy/)
+    * [Scikit-Learn](https://github.com/scikit-learn/scikit-learn)
+    * [Pandas](https://github.com/pandas-dev/pandas)
+* Applications
+  * Computational chemistry
+    * [LAMMPS](https://github.com/lammps/lammps)
+    * [GROMACS](https://gitlab.com/petsc/petsc/merge_requests/2095#note_227002753~/)
+    * [NWChem](https://github.com/nwchemgit/nwchem)
+  * Geophysics
+    * [Landlab](https://github.com/landlab/landlab)
+    * [ASPECT](https://github.com/geodynamics/aspect)
+    * [CESM](https://github.com/escomp/cesm) or [E3SM](https://github.com/E3SM-Project/E3SM)
+    * [Pangeo](https://github.com/pangeo-data)
+  * Computational fluid dynamics
+    * [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev)
+    * [SU2](https://github.com/su2code/SU2/tree/develop)
